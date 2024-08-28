@@ -14,27 +14,27 @@ ChatNest offers a range of powerful and user-friendly features designed to enhan
 * **Seamless Access**: Get started quickly by registering for a new account or logging in with your existing credentials. <br>
 * **Secure Authentication**: Enjoy secure access with our robust authentication system, including options for signing in via Google for a hassle-free login experience.
 
-### **2. User Search**
+ **2. User Search**
 
 * **Find and Connect**: Effortlessly search for other users of the ChatNest app. Use the search functionality to discover and connect with friends, colleagues, or new contacts.<br>
 * **Enhanced Discoverability**: Easily locate users by entering their username or email, making it simple to expand your network and connect with people who matter to you.
 
-### **3. Real-Time Chat and Emojis**
+ **3. Real-Time Chat and Emojis**
 
 * **Instant Messaging**: Engage in real-time conversations with friends and contacts. Our chat interface ensures that your messages are delivered instantly and seamlessly.<br>
 * **Express Yourself**: Add a touch of fun and personality to your conversations with a wide range of emojis. Whether you’re sharing excitement, humor, or emotions, emojis help you communicate more effectively.
 
-### **4. Group Creation**
+ **4. Group Creation**
 
 * **Form Your Own Groups**: Create and manage your own chat groups. Whether for project teams, study groups, or social circles, you have the flexibility to set up groups that suit your needs.<br>
 * **Invite and Collaborate**: Invite other users to join your groups and collaborate efficiently. Group chats make it easy to coordinate with multiple people in one place.
 
-### **5. Manage Group Members**
+ **5. Manage Group Members**
 
 * **Dynamic Membership**: Add or remove members from your groups with ease. Adjust group composition as needed to keep your conversations relevant and engaging.<br>
 * **Group Administration**: As a group admin, you have full control over member management, ensuring that your groups stay organized and productive.
 
-### **6. Data Persistence**
+<u> **6. Data Persistence**</u>
 
 * **Data Storage**: All your messages, group chats, and personal settings are securely stored in our database. This means your data is preserved and accessible every time you log in.<br>
 * **Restoration and Continuity**: Enjoy a seamless experience with the assurance that your data will be restored automatically upon logging back in. You won’t lose any of your previous conversations or group interactions.
