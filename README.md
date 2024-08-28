@@ -9,7 +9,7 @@ ChatNest is a sophisticated chat application that allows users to connect, commu
 ## Key Features
 ChatNest offers a range of powerful and user-friendly features designed to enhance your messaging experience. Here’s a detailed look at what you can do:
 
-### **User Registration and Login**
+ **1. User Registration and Login**
 
 * **Seamless Access**: Get started quickly by registering for a new account or logging in with your existing credentials. <br>
 * **Secure Authentication**: Enjoy secure access with our robust authentication system, including options for signing in via Google for a hassle-free login experience.
