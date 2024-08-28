@@ -34,7 +34,7 @@ ChatNest offers a range of powerful and user-friendly features designed to enhan
 * **Dynamic Membership**: Add or remove members from your groups with ease. Adjust group composition as needed to keep your conversations relevant and engaging.<br>
 * **Group Administration**: As a group admin, you have full control over member management, ensuring that your groups stay organized and productive.
 
-<u> **6. Data Persistence**</u>
+**6. Data Persistence**
 
 * **Data Storage**: All your messages, group chats, and personal settings are securely stored in our database. This means your data is preserved and accessible every time you log in.<br>
 * **Restoration and Continuity**: Enjoy a seamless experience with the assurance that your data will be restored automatically upon logging back in. You won’t lose any of your previous conversations or group interactions.
