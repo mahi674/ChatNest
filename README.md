@@ -54,9 +54,9 @@ ChatNest is built using a modern and efficient technology stack that ensures a r
 
 ### MERN Stack:
 
-• MongoDB: A NoSQL database used for storing user data, messages, and chat history. MongoDB's flexible schema design allows for easy management and retrieval of chat-related data.
-• Express.js: A minimalist web framework for Node.js that provides the server-side logic and API endpoints needed for the application. Express.js simplifies routing and middleware management.
-• React.js: A powerful front-end library for building dynamic and interactive user interfaces. React's component-based architecture facilitates efficient updates and state management.
+• MongoDB: A NoSQL database used for storing user data, messages, and chat history. MongoDB's flexible schema design allows for easy management and retrieval of chat-related data. <br>
+• Express.js: A minimalist web framework for Node.js that provides the server-side logic and API endpoints needed for the application. Express.js simplifies routing and middleware management. <br>
+• React.js: A powerful front-end library for building dynamic and interactive user interfaces. React's component-based architecture facilitates efficient updates and state management.<br>
 • Node.js: A JavaScript runtime environment that enables server-side code execution. Node.js handles real-time communications and server operations efficiently.
 
 ### Socket.io:
