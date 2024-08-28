@@ -1,6 +1,6 @@
 # CHATNEST Website with MERN Stack, Socket.io, and Tailwind CSS
 
-Welcome to ChatNest, a cutting-edge real-time chat application designed to bring users together through instant communication. This project is a comprehensive example of modern web development practices, integrating a powerful tech stack to deliver an engaging and user-friendly chat experience. Built using the MERN stack, Mongoose Socket.io and Tailwind CSS, ChatNest provides a rich set of features to enhance online conversations.
+Welcome to ChatNest, a cutting-edge real-time chat application designed to bring users together through instant communication. This project is a comprehensive example of modern web development practices, integrating a powerful tech stack to deliver an engaging and user-friendly chat experience. Built using the MERN stack, Mongoose, Socket.io and Tailwind CSS, ChatNest provides a rich set of features to enhance online conversations.
 
 ## Project Overview
 
