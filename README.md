@@ -1,6 +1,6 @@
-# CHATNEST Website with MERN Stack, Socket.io, Redux Toolkit, and Tailwind CSS
+# CHATNEST Website with MERN Stack, Socket.io, and Tailwind CSS
 
-Welcome to ChatNest, a cutting-edge real-time chat application designed to bring users together through instant communication. This project is a comprehensive example of modern web development practices, integrating a powerful tech stack to deliver an engaging and user-friendly chat experience. Built using the MERN stack, Socket.io and Tailwind CSS, ChatNest provides a rich set of features to enhance online conversations.
+Welcome to ChatNest, a cutting-edge real-time chat application designed to bring users together through instant communication. This project is a comprehensive example of modern web development practices, integrating a powerful tech stack to deliver an engaging and user-friendly chat experience. Built using the MERN stack, Mongoose Socket.io and Tailwind CSS, ChatNest provides a rich set of features to enhance online conversations.
 
 ## Project Overview
 
@@ -54,9 +54,9 @@ ChatNest is built using a modern and efficient technology stack that ensures a r
 
 Enables real-time, bidirectional communication between the client and server. Socket.io ensures that messages are delivered instantly and efficiently, enhancing the chat experience.
 
-### Redux Toolkit:
+### Mongoose:
 
-Provides a predictable state container for managing application state. Redux Toolkit simplifies state management with features like createSlice, createAsyncThunk, and a built-in DevTools extension.
+Essential for managing data like user profiles, messages, chat rooms, and group memberships. It allows you to define schemas, enforce data validation, and perform CRUD operations efficiently. Mongoose integrates seamlessly with MongoDB, enabling real-time data persistence and retrieval, which is vital for a responsive chat experience.
 
 ### Tailwind CSS:
 
